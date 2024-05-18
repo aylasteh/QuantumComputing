@@ -1,1 +1,1 @@
-Quantum Computing assignments and project
+Quantum Computing project
