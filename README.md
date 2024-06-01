@@ -1,5 +1,7 @@
 Quantum Computing project
 
+Authors: Ayla Stehling - 63327, Bruno Lima - 54466
+
 Project based on paper: <br>
 One-out-of-two Quantum Oblivious Transfer based on Nonorthogonal State
 
